@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="web-ssm:war2">
+    <output-path>$PROJECT_DIR$/classes/artifacts/web_ssm_war2</output-path>
+    <root id="archive" name="web-ssm_war.war">
+      <element id="artifact" artifact-name="web-ssm:war exploded" />
+    </root>
+  </artifact>
+</component>
